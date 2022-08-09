@@ -196,7 +196,6 @@ EOF
      sudo systemctl enable rlyd
      sudo systemctl restart rlyd && journalctl -fu rlyd -o cat
 ```
-# The following logs will indicate the successful completion of setting up Relayer_v2.0.0:
-<a href='https://postimg.cc/XBGzBqFv' target='_blank'><img src='https://i.postimg.cc/XBGzBqFv/logs-relayer-v2.jpg' border='0' alt='logs-relayer-v2'/></a>
+# Succesfully Finished Manual Installation. Well Done! :)
 
 # Thanks to snipeTR#8374 for the help for this guide.
