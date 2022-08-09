@@ -1,0 +1,15 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "KEYSTRIDE",
+    "chain-id": "STRIDE-TESTNET-2",
+    "rpc-addr": "http://xxx.xx.xxx.xx:xxxxx",  "(set your rpc address and port for stride)
+    "account-prefix": "stride",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.5,
+    "gas-prices": "0.001ustrd",
+    "debug": true,
+    "timeout": "10s",
+    "sign-mode": "direct"
+  }
+}
